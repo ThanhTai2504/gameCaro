@@ -1,0 +1,10 @@
+C:\Users\MSII\Desktop\Gamecaro\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+C:\Users\MSII\Desktop\Gamecaro\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+C:\Users\MSII\Desktop\Gamecaro\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+C:\Users\MSII\Desktop\Gamecaro\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.AssemblyReference.cache
+C:\Users\MSII\Desktop\Gamecaro\GameCaro\GameCaro\obj\Debug\GameCaro.frmCoCaro.resources
+C:\Users\MSII\Desktop\Gamecaro\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+C:\Users\MSII\Desktop\Gamecaro\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.cache
+C:\Users\MSII\Desktop\Gamecaro\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.CoreCompileInputs.cache
+C:\Users\MSII\Desktop\Gamecaro\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+C:\Users\MSII\Desktop\Gamecaro\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
